@@ -1,26 +1,20 @@
 [
   {
     "id": 0,
-    "name": "Telegram",
-    "link": "https://t.me/smakosh",
-    "icon": "/icons/telegram.svg"
+    "name": "Github",
+    "link": "https://github.com/madeeldev",
+    "icon": "/icons/git.svg"
   },
   {
     "id": 1,
-    "name": "Github",
-    "link": "https://github.com/smakosh",
-    "icon": "/icons/github.svg"
+    "name": "Twitter",
+    "link": "https://twitter.com/adeelsafdar_dev",
+    "icon": "/icons/twit.svg"
   },
   {
     "id": 2,
-    "name": "StackOverflow",
-    "link": "https://stackoverflow.com/users/story/7396786",
-    "icon": "/icons/stackoverflow.svg"
-  },
-  {
-    "id": 3,
-    "name": "Twitter",
-    "link": "https://twitter.com/smakosh",
-    "icon": "/icons/twitter.svg"
+    "name": "Facebook",
+    "link": "https://www.facebook.com/rana.adeel.5566/",
+    "icon": "/icons/fb.svg"
   }
 ]

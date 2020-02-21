@@ -18,7 +18,7 @@ export const Projects = () => {
         github {
           viewer {
             repositories(
-              first: 8
+              first: 12
               orderBy: { field: STARGAZERS, direction: DESC }
             ) {
               edges {
@@ -39,6 +39,7 @@ export const Projects = () => {
       }
     `
   )
+  //console.log(github);
   return (
     <Wrapper as={Container} id="projects">
       <h2>Projects</h2>
@@ -70,6 +71,5 @@ export const Projects = () => {
           </Item>
         ))}
       </Grid>
-    </Wrapper>
-  )
+    </Wrapper> )
 }
