@@ -24,7 +24,7 @@ export const Skills = () => (
           I am eager to learn and be challenged in order to grow and improve my professional skills.
         </p>
         <a style={{ curser: 'pointer',boxShadow: '0px 10px 30px rgba(118, 85, 225, 0.3)', display: 'inline-block', color: '#fff', borderRadius: '5px', border: 'double 2px transparent', lineHeight: '46px',
-          backgroundImage: 'linear-gradient(to right, #4458dc 0%, #854fee 100%), radial-gradient(circle at top left, #4458dc, #854fee)' }} href="https://jaksatomovic.github.io/jaksatomoviccv.pdf" target="__blank">
+          backgroundImage: 'linear-gradient(to right, #4458dc 0%, #854fee 100%), radial-gradient(circle at top left, #4458dc, #854fee)' }} href="https://madeeldev.github.io/Adeel_s_Curriculum_Vitae.pdf" target="__blank">
           <span style={{padding: '0 42px'}}>Download CV</span>
         </a>
       </Details>
