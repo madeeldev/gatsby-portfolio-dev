@@ -2,7 +2,7 @@ module.exports = {
   defaultTitle: 'Adeel Safdar',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'Adeel Safdar',
-  url: 'https://portfolio.adeelsafdar.com',
+  url: 'https://adeelsafdar.netlify.com/',
   legalName: 'Adeel Safdar',
   defaultDescription: 'I’m Adeel and I’m a Full Stack Developer!',
   socialLinks: {
@@ -11,14 +11,14 @@ module.exports = {
     linkedin: 'https://www.linkedin.com/in/madeeldev/',
     instagram: 'https://instagram.com/adeel.dev',
     youtube: 'https://www.youtube.com/user/muad',
-    google: 'https://plus.google.com/u/0/+IsmailSmakoshGhallou',
+    google: '',
   },
-  googleAnalyticsID: 'UA-88875900-4',
+  googleAnalyticsID: 'UA-151758417-1',
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   social: {
     facebook: 'appId',
-    twitter: '@smakosh',
+    twitter: '@adeel',
   },
   address: {
     city: 'City',
@@ -31,5 +31,5 @@ module.exports = {
     phone: 'phone number',
   },
   foundingDate: '2018',
-  recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN',
+  recaptcha_key: '6Lfdr98UAAAAAKNYzbO_clTbfbKX91oe3sVnWISR',
 };
