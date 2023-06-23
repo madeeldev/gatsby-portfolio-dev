@@ -52,9 +52,6 @@ typings/
 *.tgz
 
 # dotenv environment variables file
-.env
-.env.development
-.env.production
 
 # gatsby files
 .cache/
@@ -72,3 +69,8 @@ yarn-error.log
 yarn.lock
 
 now.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
